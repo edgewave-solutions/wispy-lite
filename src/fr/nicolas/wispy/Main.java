@@ -1,6 +1,6 @@
-package fr.nicolas.wispy;
+package fr.wispy.lite;
 
-import fr.nicolas.wispy.Frames.MainFrame;
+import fr.wispy.lite.Frames.MainFrame;
 
 public class Main {
 
